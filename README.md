@@ -1,2 +1,2 @@
 # webprac
-this is just my web development pracrice repository
+this is just my web development practice repository
